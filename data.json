@@ -1,0 +1,1 @@
+{"students": {"4854": {"name": "Prachaw", "age": 22, "address": "prachaw@gmail.com", "grades": {"DBMS": "3.75"}, "courses": ["DBMS"]}, "4992": {"name": "Mishal", "age": 21, "address": "moshal@gmail.com", "grades": {"DBMS": "A"}, "courses": ["DBMS"]}}, "courses": {"321": {"course_name": "DBMS", "instructor": "Arif", "students": ["4854", "4992"]}}}
